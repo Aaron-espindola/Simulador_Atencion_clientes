@@ -1,0 +1,12 @@
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\bin\Debug\net6.0\Secundaria.deps.json
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\bin\Debug\net6.0\Secundaria.dll
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\bin\Debug\net6.0\Secundaria.pdb
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\Secundaria.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\Secundaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\Secundaria.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\Secundaria.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\Secundaria.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\Secundaria.dll
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\refint\Secundaria.dll
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\Secundaria.pdb
+C:\Users\aaron\OneDrive\Escritorio\CUDI\Recuperatorio TP FINAL\Atencion de clientes\Secundaria\obj\Debug\net6.0\ref\Secundaria.dll

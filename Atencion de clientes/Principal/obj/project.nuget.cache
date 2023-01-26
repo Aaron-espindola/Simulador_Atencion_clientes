@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8cseJEHkv4+zazUu4EPHtqqkQcDP3D/oQliWKr/CoNe7IOcIK1cDSrDipgYpyhxyZvlldINoM/uu3UAGtBnGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaron\\OneDrive\\Escritorio\\CUDI\\Recuperatorio TP FINAL\\Atencion de clientes\\Principal\\Principal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
